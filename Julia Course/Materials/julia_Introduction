@@ -1,0 +1,44 @@
+Video1  Julia Course
+-----------------------------------------------------------------------------------------------
+Course Introduction 
+
+Hello everyone welcome to the Julia Programmming tutorial. Julia is an emerging programming Laguage. It is gradually increasing its popularity in the community. One of the main reason why julia is gaining its popularity is because of its speed its much faster than python. So in this tutorial we are going to study about julia programming and also in the end section we are going to study how julia can be used in data science.
+----------------------------------------------------------------------------------------------
+Video2
+----------------------------------------------------------------------------------------------
+Course Pre-requisite:- 
+
+Hello everyone Welcome back to julia programming tutorial in today's video we are going to discuss about course pre-requisites. So the pre-requisite you will require to learn julia programming language is, If you have familiarity with any of the programming language like JAVA, Python, C++, then picking up Julia would be a piece of cake. Apart from that, the only thing which matters the most is Dedication rest all things will automatically line up. 
+----------------------------------------------------------------------------------------------
+Video3 
+---------------------------------------------------------------------------------------------
+Who is this course for 
+
+Hello all welcome back to the julia programming tutorial in this video we are going to discuss 
+who is this course for this course for. So if you are working professional or a students who wants to add new programming language to your resume, then julia is the right programming language for you. It's simple programming language with simple syntax Which is easy to remember. Also if you are Data Scientist and you want to explore a programming language apart from python then Julia is the programming language for you to explore. Julia still no perfect for data science, But as the community gorws it will become better at it. But still we can  build basic machine learning models with julia. 
+-----------------------------------------------------------------------------------------------
+Video4
+-----------------------------------------------------------------------------------------------
+What is Julia Programming Language ? 
+
+Julia Programming language is a FAST, Dynamic, Reproducible, Composable, General and Open source.SHHH... That's a lot to handle let's see all these features one by one.
+ 
+-> FAST:- Julia was Designed from the beginning for high performance.Julia programs compile to efficient native code for multiple platforms via LLVM.
+
+-> Dynamic:- Julia is dynamicallly typed, feels like a scripting language, and has good support for interactive use. 
+
+-> Reproducible:- Reproducible environment make it possible to recreate the same julia environment every time acrosss platforms.
+
+-> Composable:- Julia uses multiple dispatch as a paradigm, making it easy to express many object-oriented and functional programming patterns.
+
+-> General:- Julia provides asynchronous I/O, metaprogramming,debugging,logging, profiling, a package manager, and more.
+
+-> Open Source:- Julia is an open source procject with over 1000 contributors. It is made available under the MIT license. 
+-----------------------------------------------------------------------------------------------
+Video5
+-----------------------------------------------------------------------------------------------
+Why use julia when you have python ? 
+
+See Python is one of those language which is loved by the developers worldwide, So why use Julia then, The reason julia is much faster than python as it has execution speed very close to that of C.
+Diagram comparison of Julia with other programming languages. 
+https://julialang.org/benchmarks/
